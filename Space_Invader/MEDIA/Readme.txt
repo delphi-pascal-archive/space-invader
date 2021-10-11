@@ -1,0 +1,1 @@
+Le dossier Fonts est à copié dans le dossier de windows pour profité des polices spéciales
